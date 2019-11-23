@@ -1,3 +1,13 @@
+/*
+File: 
+91.461 GUI Programming I  Assignment# 6:  Creating an Interactive Dynamic Table
+Margie Patel, Umass Lowell Computer Science, Margie_Patel@student.uml.edu
+Copyright (c) 2019 by Margie Patel. All rights reserved.
+updated MP on November 13 2019 at 11:00 PM
+Description: Javascript validates user's input and creates multiplication table for valid inputs
+*/
+
+
 "use strict";
 
 function generateTable(sMultiplier, eMultiplier, sMultiplicand, eMultiplicand) {
