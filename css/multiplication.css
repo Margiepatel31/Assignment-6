@@ -1,3 +1,12 @@
+/*
+File: 
+91.461 GUI Programming I  Assignment# 6:  Creating an Interactive Dynamic Table
+Margie Patel, Umass Lowell Computer Science, Margie_Patel@student.uml.edu
+Copyright (c) 2019 by Margie Patel. All rights reserved.
+updated MP on November 13 2019 at 11:00 PM
+Description:  css file to provide styling to multiplication.html file
+*/
+
 body {
   background: linear-gradient(to bottom, #20B2AA 0%, 	#ADD8E6	 100%);  /* to set gradient background */
   background-repeat: no-repeat;
